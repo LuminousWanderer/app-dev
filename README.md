@@ -15,4 +15,3 @@
 8. Suzume = anime movie
 9. Howl's Moving Castle = anime movie
 10. Ghost in the shell = anime movie
-
