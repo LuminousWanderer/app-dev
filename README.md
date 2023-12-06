@@ -1,7 +1,7 @@
 # app-dev
 ## My first repository
 
-:excited:*Hello I'm LuminousWanderer but call me Lumi for short*:excited:
+💛*Hello I'm LuminousWanderer but call me Lumi for short*💛
 
 ### **Here's my 10 favorite series/movie**
 
